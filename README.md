@@ -1,4 +1,4 @@
 # vehicle-hacking
-Guides and scripts for vehicle cybersecurity research
+Guides and scripts for vehicle cybersecurity research.
 
-For the Vehicle Hacking Setup Guide, please see the [vehicle-hacking Wiki](https://github.com/mortedamos/vehicle-hacking/wiki/Vehicle-Hacking-Setup-Guide:-Part-0:-Introduction).
+For the interesting stuff, take a lookat the Vehicle Hacking Setup Guide, [vehicle-hacking Wiki](https://github.com/mortedamos/vehicle-hacking/wiki/Vehicle-Hacking-Setup-Guide:-Part-0:-Introduction).
